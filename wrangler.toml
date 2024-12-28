@@ -7,6 +7,15 @@ compatibility_date = "2023-05-26"
 [[routes]]
 pattern = "alb1.yadinew.us.kg"
 custom_domain = true
+[[routes]]
+pattern = "alb2.yadinew.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "alb3.yadinew.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "alb4.yadinew.us.kg"
+custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
@@ -15,4 +24,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "c66b883c-ff36-404b-9fb4-66cbd00bfdf1"
+UUID = "c66b883c-ff36-404b-9fb4-66cbd00bfdf1,0610ef20-332a-41d6-8744-3e3c2c957b98,17266f60-0147-4057-8246-8fa592dcbd7d,9cdb3a4f-38cb-463f-93d2-732dbde8961a"
